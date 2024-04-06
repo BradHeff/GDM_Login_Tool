@@ -1,0 +1,4 @@
+tkthread
+cython3
+pathlib
+ttkbootstrap
