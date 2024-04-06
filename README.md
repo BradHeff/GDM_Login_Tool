@@ -14,10 +14,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Horizon AI Extension Canvas</h3>
+<h3 align="center">GDM Login Tool by Brad Heff</h3>
 
   <p align="center">
-    Your ultimate companion for efficient grading and feedback in the classroom.
+    Python Application with ttkbootstrap.
     <br />
     <a href="https://github.com/BradHeff/GDM_Login_Tool"><strong>Explore the docs »</strong></a>
     <br />
