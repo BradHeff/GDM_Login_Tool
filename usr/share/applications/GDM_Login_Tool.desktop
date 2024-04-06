@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=GDM Login Tool
+GenericName=GDM Login Tool
+X-GNOME-FullName=GDM Login Tool
+Comment=Configure GDM Login Screen
+Exec=gdm-login-tool
+Icon=GDM_Login_Tool
+Terminal=false
+Type=Application
+Categories=GTK;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+Keywords=GDM;Login;Tool;
+StartupNotify=true
